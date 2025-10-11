@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aulin/OneDrive - Virtual Education Academy/Documents/Project/Dicoding/MLOps_Shafira/Eksperimen_SML_Shafira-Maulidina/Membangun_model/mlruns/578238576834666506/9e749c5334f749829e90695c87ccbeed/artifacts
+end_time: 1759917926943
+entry_point_name: ''
+experiment_id: '578238576834666506'
+lifecycle_stage: active
+run_id: 9e749c5334f749829e90695c87ccbeed
+run_name: logreg_baseline
+run_uuid: 9e749c5334f749829e90695c87ccbeed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759917919906
+status: 3
+tags: []
+user_id: aulin
