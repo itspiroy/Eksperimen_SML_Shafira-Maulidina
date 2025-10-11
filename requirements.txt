@@ -1,3 +1,6 @@
-pandas
+mlflow==2.19.0
 scikit-learn
-mlflow
+pandas
+numpy
+matplotlib
+seaborn
