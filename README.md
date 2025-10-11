@@ -1,1 +1,0 @@
-# Eksperimen SML Shafira Maulidina
